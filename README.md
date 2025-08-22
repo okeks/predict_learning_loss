@@ -41,8 +41,9 @@ The workflow was implemented in **R** using the following key packages:
 
 4. **Findings**
    - Many low-income countries experienced **larger and more persistent learning losses**  
-   - Digital divide strongly influenced recovery speed  
-   - Some high-income countries managed partial recovery by 2022  
+   - Digital divide strongly influenced recovery speed.
+   - Some high-income countries managed partial recovery by 2022
+   - Some High income countries experiences no learning losses due to online learning.
 
 
 git clone https://github.com/your-username/covid19-learning-loss.git
